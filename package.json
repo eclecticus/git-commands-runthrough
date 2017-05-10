@@ -23,5 +23,8 @@
   "homepage": "https://github.com/eclecticus/git-commands-runthrough#readme",
   "dependencies": {
     "eslint": "^3.19.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
