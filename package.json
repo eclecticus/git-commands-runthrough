@@ -1,0 +1,27 @@
+{
+  "name": "git-commands-runthrough",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oreoluwa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eclecticus/git-commands-runthrough.git"
+  },
+  "keywords": [
+    "node",
+    "git",
+    "test"
+  ],
+  "author": "oreoluwa aboluwarin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eclecticus/git-commands-runthrough/issues"
+  },
+  "homepage": "https://github.com/eclecticus/git-commands-runthrough#readme",
+  "dependencies": {
+    "eslint": "^3.19.0"
+  }
+}
