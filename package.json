@@ -25,6 +25,7 @@
     "eslint": "^3.19.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "jesus": "^0.2.2"
   }
 }
